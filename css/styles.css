@@ -145,7 +145,7 @@ a > img {
 }
 
 #sources {
-    text-align: center;
+    align-items: center;
 }
 
 #socials {
